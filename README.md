@@ -262,19 +262,14 @@ The exact compiler and library configuration may differ depending on the Windows
 
 Add screenshots of the actual game here after final testing.
 
-Suggested screenshots:
+<img width="612" height="484" alt="image" src="https://github.com/user-attachments/assets/c8e3113b-6400-43d6-8ae8-11c2c458768e" />
 
-- Start screen
-- Gameplay screen
-- Gameplay with score and lives
-- Game Over screen
+<img width="612" height="486" alt="image" src="https://github.com/user-attachments/assets/2b5f7f0f-49f0-4caf-838e-3f3425846b19" />
 
-Example:
+<img width="612" height="480" alt="image" src="https://github.com/user-attachments/assets/bf619d86-12d7-4429-83f7-9a3083218cf0" />
 
-```markdown
-![Start Screen](screenshots/start.png)
-![Gameplay](screenshots/gameplay.png)
-![Game Over](screenshots/gameover.png)
+
+
 ```
 
 ## Learning Outcomes
